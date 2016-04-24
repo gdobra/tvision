@@ -1,0 +1,11 @@
+NOTE ON THE CONTENTS OF THIS ARCHIVE:
+
+The two enclosed .ZIP files comprise all necessary source to
+Turbo Vision 2.0.  Note that no path information is stored in
+these archive.  Typically, the contents of INCLUDE.ZIP are to 
+be placed in \BCx\INCLUDE\TVISION;  the contents of SOURCE.ZIP 
+are to be placed in \BCx\SOURCE\TVISION.  Also note that the 
+source includes some assembly language (*.ASM) files.  Success-
+ful generation of the Turbo Vision library will require use of 
+Turbo Assembler to translate these source code files into ob-
+ject files.
